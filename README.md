@@ -25,5 +25,5 @@ Go to ```frontend``` and ```backend``` directories and install the packages
  ```
  
  <p align="center">
-  <image src="https://user-images.githubusercontent.com/108184198/229303428-859a4681-4666-4d5d-8804-d9a34240d0fd.png">
+  <image src="![image](https://github.com/boaz1e/Workouts-Management/assets/108184198/c0d78071-da0c-4b9b-8929-2feab6554e62)">
 </p>
